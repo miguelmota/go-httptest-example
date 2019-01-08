@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/miguelmota/demo/server"
+	"github.com/miguelmota/go-httptest-example/server"
 )
 
 func main() {
